@@ -12534,7 +12534,7 @@ li.has-dropdown {
   position: relative;
 }
 li.has-dropdown .submenu {
-  min-width: 230px;
+  min-width: 280px;
   height: auto;
   position: absolute;
   top: 100%;
@@ -20110,4 +20110,12 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .sticky_header_logo{
       height: 55px;
     width: auto;
+}
+
+.contact_disc{
+      font-size: 20px;
+}
+
+.rts-section-gap-area{
+  padding: 80px 0;
 }

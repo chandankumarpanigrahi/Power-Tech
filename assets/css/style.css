@@ -23915,5 +23915,6 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 
 .services_list_feature>div {
   width: 33%;
+      min-width: 260px;
   justify-content: center;
 }

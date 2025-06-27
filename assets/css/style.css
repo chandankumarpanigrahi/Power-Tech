@@ -14948,6 +14948,7 @@ Copyright (c) 2015 Daniel Eden
 @media only screen and (max-width: 991px) {
   .button-area-right-header .menu-btn-toggle {
     display: block;
+    cursor: pointer;
   }
 }
 

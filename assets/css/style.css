@@ -23918,3 +23918,9 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
       min-width: 260px;
   justify-content: center;
 }
+
+@media screen and (min-width: 767px) {
+  .service_home_card{
+    height: 340px;
+  }
+}

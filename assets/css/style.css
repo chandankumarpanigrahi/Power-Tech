@@ -23925,3 +23925,19 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
     height: 340px;
   }
 }
+
+.custom-contact-list li{
+      display: flex
+;
+    justify-content: flex-start;
+    align-items: flex-start;
+        gap: 1rem;
+}
+
+.custom-contact-list li:hover i{
+    color: var(--color-primary);
+}
+
+.google-map-wrapper iframe{
+      border: 2px solid #0c4e98 !important;
+}
